@@ -3,6 +3,7 @@
 //
 
 #include "GE777/Application.h"
+#include "GE777/Log.h"
 #include <stdio.h>
 
 //-----Entry Point--------------------------
